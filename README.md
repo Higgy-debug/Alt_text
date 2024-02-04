@@ -18,7 +18,7 @@ Salesforce/blip-image-captioning-base to analyse an image and provide you with a
 Follow these steps to get the project up and running on your own machine.
 
 1. Clone the repository:
-   git clone 
+   git clone https://github.com/Higgy-debug/Alt_text.git
    
 2. Install project dependencie using:
    npm install
