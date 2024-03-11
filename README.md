@@ -5,13 +5,13 @@ Salesforce/blip-image-captioning-base to analyse an image and provide you with a
 
 ## Depedencies
 * Node.js >= 16.14.0
-* "dotenv": "^16.4.1"
-* "express": "^4.18.2"
-* "express-fileupload": "^1.4.1"
-* "mongodb": "^6.3.0"              
-* "multer": "^1.4.5-lts.1"    (It is used to handle multiform data specfically for uploading files)
-* "node-fetch": "^3.2.6"
-* "replicate": "^0.25.2"   (Optional if u want to use Replicate-AI API)
+* dotenv: 16.4.1
+* express: 4.18.2
+* express-fileupload: 1.4.1
+* mongodb: 6.3.0             
+* multer: 1.4.5-lts.1   (handles multiform data)
+* node-fetch: 3.2.6
+* replicate": 0.25.2  (Optional if u want to use Replicate-AI API)
 
 ## Installation from source
 
