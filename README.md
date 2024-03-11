@@ -28,8 +28,8 @@ Follow these steps to get the project up and running on your own machine.
 
    * PORT=5500
    * MONGODB_URI=mongodb+srv://hirthick10nitt:Hirthickkesh2001@cluster1.n3y7seo.mongodb.net/?retryWrites=true&w=majority
-   * REPLICATE_API_TOKEN=r8_Zf8yoRuW6vUNx1daUSta0VgL3DPxjcm05fZ4T (Optional)
-   * HUGGING_FACE_API_TOKEN = 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
+   * REPLICATE_API_TOKEN =r8_Zf8yoRuW6vUNx1daUSta0VgL3DPxjcm05fZ## (Optional)
+   * HUGGING_FACE_API_TOKEN = hf_mbMVgyzEJXIUaPDWhwNsRITuiCgbmPxj##
    
 5. Run the Project
   To start the project:
